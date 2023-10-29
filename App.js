@@ -33,8 +33,6 @@ export default function App() {
                 ></Drawer.Screen>
             </Drawer.Navigator>
         </NavigationContainer>
-        // <View style={styles.container}>
-        // </View>
     );
 }
 
